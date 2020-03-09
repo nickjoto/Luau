@@ -10,4 +10,5 @@ Physical Meetings: Every Thursday
 
 Digital Meetings: Once a week over the weekend
 
+Repo: https://bitbucket.org/nijoto_admin/softwareengineering/
 Website: http://www.nijo.to
