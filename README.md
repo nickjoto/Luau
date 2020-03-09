@@ -1,2 +1,14 @@
-# Luau
-An event social network built with Flutter.
+# Luau - An event social network built with Flutter.
+# We are a service that allows event holders to organize, sell, and advertise events to users on our social networking platform.
+
+# Team Members:
+Nicholas Clark
+Thomas Evangelista
+John Scarfo
+Garrett Stonis
+
+Physical Meetings: Every Thursday
+
+Digital Meetings: Once a week over the weekend
+
+Website: http://www.nijo.to
