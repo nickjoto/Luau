@@ -4,10 +4,7 @@
 # We are a service that allows event holders to organize, sell, and advertise events to users on our social networking platform.
 
 # Team Members:
-Nicholas Clark
-Thomas Evangelista
-John Scarfo
-Garrett Stonis
+Nicholas Clark, John Scarfo, Garrett Stonis, & Thomas R. Evangelista
 
 Physical Meetings: Every Thursday
 
